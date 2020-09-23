@@ -5,4 +5,4 @@ permalink: /publicacoes/
 author_profile: true
 ---
 
-- **Em construções**
+- **Em construção**
