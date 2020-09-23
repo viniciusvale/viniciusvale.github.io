@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Professor Adjunto do Departamento de Economia e do Programa de Pós-Graduação em Desenvolvimento Econômico (PPGDE) da Universidade Federal do Paraná (UFPR), Editor da Revista de Economia e Pesquisador do Núcleo de Estudos em Desenvolvimento Urbano e Regional (NEDUR). Possui o título de Doutor em Economia (2018) e Mestre em Economia Aplicada (2014) pela Universidade Federal de Juiz de Fora (UFJF).\
-Tem experiência na área de Economia Aplicada, com ênfase em modelos de equilíbrio geral computável e insumo-produto, atuando principalmente nos seguintes temas: economia regional, economia internacional, relações do comércio, política Comercial, integração econômica, economia do meio ambiente e mudanças climáticas.
+\
+**Área de interesse:** Economia Aplicada com ênfase em modelos de equilíbrio geral computável e insumo-produto e nos seguintes temas: economia regional, economia internacional, relações do comércio, política comercial, integração econômica, economia do meio ambiente e mudanças climáticas.
 
 News
 ======
