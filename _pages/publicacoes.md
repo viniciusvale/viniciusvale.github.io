@@ -19,7 +19,7 @@ author_profile: true
   Journal of Economic Structures, v. 9, p. 1-21, 2020 <br/>
   Eduardo A. Haddad, Natalia Cotarelli, Thiago C. Simonato, Vinicius A. Vale & Jaqueline C. Visentin 
 
-- [Inserção produtiva internacional e inter-regional: uma análise a partir das cadeias globais de valor](https://ppe.ipea.gov.br/index.php/ppe/article/viewFile/1784/1284) <br/>
+- [Inserção produtiva internacional e inter-regional: <br/> uma análise a partir das cadeias globais de valor](https://ppe.ipea.gov.br/index.php/ppe/article/viewFile/1784/1284) <br/>
   Pesquisa e Planejamento Econômico, v. 49, p. 163-195, 2019. <br/>
   Fernando S. Perobelli, Inácio F. Araújo Junior; Vinicius A. Vale & Monica M. Pires
 
@@ -27,11 +27,11 @@ author_profile: true
   Economic Systems Research, v. 30, p. 1-17, 2018 <br/>
   Vinicius A. Vale, Fernando S. Perobelli & Ariaster B. Chimeli 
 
-- [Impactos econômicos do aumento das exportações brasileiras de produtos agrícolas e <br/> agroindustriais para diferentes destinos](https://doi.org/10.1080/09535314.2017.1361907) <br/> 
+- [Impactos econômicos do aumento das exportações brasileiras de produtos <br/> agrícolas e agroindustriais para diferentes destinos](https://doi.org/10.1080/09535314.2017.1361907) <br/> 
   Revista de Economia e Sociologia Rural, v. 55, p. 343-366, 2017 <br/>
   Fernando S. Perobelli, Admir A. Betarelli Junior, Vinicius A. Vale & Ramon G. Cunha
 
-- [Avaliação espacial das fontes de crescimento de um conjunto de commodities agrícolas <br/> brasileiras exportáveis entre 2003-2013](https://periodicos.ufv.br/rea/article/view/7586) <br/>
+- [Avaliação espacial das fontes de crescimento de um conjunto de commodities <br/> agrícolas brasileiras exportáveis entre 2003-2013](https://periodicos.ufv.br/rea/article/view/7586) <br/>
   Revista de Economia e Agronegócio, v. 47, p. 3-40, 2016 <br/>
   Fernando S. Perobelli, Vinicius A. Vale ; Túlio M. Belgo & Felipe Lanziotti
 
