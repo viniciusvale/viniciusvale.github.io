@@ -39,7 +39,7 @@ author_profile: true
   Revista Brasileira de Economia de Empresas, v. 16, p. 53-77, 2016 <br/>
   Fernando S. Perobelli, Veronica L. Cardoso, Vinicius A. Vale & Lais C. Rodrigues
 
-- [Avaliação do setor da construção civil para as principais economias mundiais: uma análise sistêmica a partir de uma abordagem de insumo-produto para o período de 1995 a 2009](https://revistas.fee.tche.br/index.php/ensaios/article/view/3570/3764) <br/> 
+- [Avaliação do setor da construção civil para as principais economias mundiais: \ uma análise sistêmica a partir de uma abordagem de insumo-produto para o período de 1995 a 2009](https://revistas.fee.tche.br/index.php/ensaios/article/view/3570/3764) <br/> 
   Ensaios FEE, v. 37, p. 331-366, 2016 <br/>
   Fernando S. Perobelli, Rodger A. B. Campos, Veronica L. Cardoso & Vinicius A. Vale
 
