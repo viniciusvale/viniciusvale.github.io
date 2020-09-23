@@ -17,7 +17,7 @@ author_profile: true
 
 - [The Grand Tour: Keynes and Goodwin go to Greece](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-020-00205-5) <br/>
   Journal of Economic Structures, v. 9, p. 1-21, 2020 <br/>
-  Eduardo A. Haddad, COTARELLI, N. ; SIMONATO, T. C. ; Vinicius A. Vale ; VISENTIN, J. C.
+  Eduardo A. Haddad, Natalia Cotarelli, Thiago C. Simonato, Vinicius A. Vale & Jaqueline C. Visentin 
 
 - [Inserção produtiva internacional e inter-regional: uma análise a partir das cadeias globais de valor](https://ppe.ipea.gov.br/index.php/ppe/article/viewFile/1784/1284) <br/>
   Pesquisa e Planejamento Econômico, v. 49, p. 163-195, 2019. <br/>
