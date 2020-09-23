@@ -23,7 +23,7 @@ author_profile: true
   Pesquisa e Planejamento Econômico, v. 49, p. 163-195, 2019. <br/>
   Fernando S. Perobelli, Inácio F. Araújo Junior; Vinicius A. Vale & Monica M. Pires
 
-- [International trade, pollution, and economic structure: evidence on CO<sub>2</sub> emissions for the North and the South]() <br/>
+- [International trade, pollution, and economic structure: <br/> evidence on CO<sub>2</sub> emissions for the North and the South]() <br/>
   Economic Systems Research, v. 30, p. 1-17, 2018 <br/>
   Vinicius A. Vale, Fernando S. Perobelli & Ariaster B. Chimeli 
 
@@ -47,7 +47,7 @@ author_profile: true
   Revista de Economia e Sociologia Rural, v. 54, p. 221-242, 2016 <br/>
   Larissa S. Marioni, Vinicius A. Vale, Fernando S. Perobelli & Ricarda S. Freguglia
 
-- [Estimativa da matriz de insumo-produto da Bahia (2009): características sistêmicas da estrutura produtiva do estado](https://ren.emnuvens.com.br/ren/article/view/606) <br/>
+- [Estimativa da matriz de insumo-produto da Bahia (2009): <br/> características sistêmicas da estrutura produtiva do estado](https://ren.emnuvens.com.br/ren/article/view/606) <br/>
   Revista Econômica do Nordeste, v. 46, p. 97-115, 2015 <br/>
   Fernando S. Perobelli, Vinicius A. Vale, Monica M. Pires, João P. C. Santos & Inácio F. Araújo Junior
 
