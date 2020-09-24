@@ -14,7 +14,7 @@ Professor Adjunto do Departamento de Economia e do Programa de Pós-Graduação 
 \
 **Área de interesse:** Modelos de Equilíbrio Geral Computável e Insumo-Produto; Economia Regional; Economia Internacional; Política Comercial; Integração Econômica; Economia do Meio Ambiente e Mudanças Climáticas.\
 \
-[**Lattes CNPq**](http://lattes.cnpq.br/3023506645752042)
+Currículo [**Lattes**](http://lattes.cnpq.br/3023506645752042).
 
 # News
 
