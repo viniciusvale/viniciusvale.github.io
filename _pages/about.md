@@ -10,7 +10,7 @@ redirect_from:
 
 # Apresentação
 
-Professor Adjunto do Departamento de Economia e do Programa de Pós-Graduação em Desenvolvimento Econômico [(PPGDE)](http://www.prppg.ufpr.br/site/ppgde/en/) da Universidade Federal do Paraná (UFPR), Editor da Revista de Economia e Pesquisador do Núcleo de Estudos em Desenvolvimento Urbano e Regional (NEDUR). Possui o título de Doutor em Economia (2018) e Mestre em Economia Aplicada (2014) pela Universidade Federal de Juiz de Fora (UFJF).\
+Professor Adjunto do Departamento de Economia e do Programa de Pós-Graduação em Desenvolvimento Econômico ([PPGDE](http://www.prppg.ufpr.br/site/ppgde/en/)) da Universidade Federal do Paraná (UFPR), Editor da Revista de Economia e Pesquisador do Núcleo de Estudos em Desenvolvimento Urbano e Regional (NEDUR). Possui o título de Doutor em Economia (2018) e Mestre em Economia Aplicada (2014) pela Universidade Federal de Juiz de Fora (UFJF).\
 \
 **Área de interesse:** Modelos de Equilíbrio Geral Computável e Insumo-Produto; Economia Regional; Economia Internacional; Política Comercial; Integração Econômica; Economia do Meio Ambiente e Mudanças Climáticas.\
 \
