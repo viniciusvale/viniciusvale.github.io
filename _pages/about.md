@@ -18,6 +18,10 @@ Currículo [**Lattes**](http://lattes.cnpq.br/3023506645752042).
 
 # News
 
+[26/10/2020] **Nova Publicação** Livro\
+[Análise de Insumo-Produto: teoria e aplicações no R](https://viniciusvale.github.io/Livro-IP-R/Vale_Perobelli_2020_Livro_IP_R.pdf)\
+Vinícius A. Vale & Fernando S. Perobelli
+
 [23/09/2020] **Nova Publicação** na Regional Science Policy and Practice\
 [The economic impacts of COVID‐19 in Brazil based on an interregional CGE approach](https://doi.org/10.1111/rsp3.12354)\
 Alexandre A. Porsse, Kênia B. de Souza, Terciane S. Carvalho & Vinícius A. Vale
