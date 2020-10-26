@@ -5,6 +5,12 @@ permalink: /publicacoes/
 author_profile: true
 ---
 
+# Livros
+
+- [Análise de Insumo-Produto: teoria e aplicações no R](https://viniciusvale.github.io/Livro-IP-R/Vale_Perobelli_2020_Livro_IP_R.pdf) <br/>
+  Edição Independente, 2020 <br/>
+  Vinícius A. Vale & Fernando S. Perobelli
+
 # Artigos
 
 - [The economic impacts of COVID‐19 in Brazil based on an interregional CGE approach](https://doi.org/10.1111/rsp3.12354) <br/>
