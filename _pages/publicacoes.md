@@ -18,7 +18,7 @@ author_profile: true
   Alexandre A. Porsse, Kênia B. de Souza, Terciane S. Carvalho & Vinícius A. Vale
   
 - [Water content in trade: a regional analysis for Morocco](https://doi.org/10.1080/09535314.2020.1756228) <br/>
-  Economic Systems Research, p. 1-20, 2020 <br/>
+  Economic Systems Research, v. 32, n. 4, p. 565–584, 2020 <br/>
   Eduardo A. Haddad, Fatima E. Mengoub & Vinicius A. Vale
 
 - [The Grand Tour: Keynes and Goodwin go to Greece](https://journalofeconomicstructures.springeropen.com/articles/10.1186/s40008-020-00205-5) <br/>
