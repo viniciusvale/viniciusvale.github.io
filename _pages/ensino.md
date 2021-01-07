@@ -7,8 +7,12 @@ author_profile: true
 
 # Pós-Graduação
 
-- Análise de Insumo-Produto <br/>
-  1o sem 2020 <br/>
-  Vinícius A. Vale 
+- Análise de Insumo-Produto (2020)
+- Equilíbrio Geral Computável: modelos regional e global (2019)
 
 # Graduação
+
+- Economia Internacional (2018-Atual)
+- Economia Regional e Urbana (2018-Atual)
+- Teoria Microeconômica (2018)
+  
