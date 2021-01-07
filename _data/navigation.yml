@@ -6,4 +6,5 @@ main:
   - title: "Cursos"
     url: /cursos/   
     
-   
+  - title: "Ensino"
+    url: /ensino/  
