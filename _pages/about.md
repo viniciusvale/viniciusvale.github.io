@@ -18,7 +18,7 @@ Currículo [**Lattes**](http://lattes.cnpq.br/3023506645752042).
 
 # News
 
-[26/10/2020] **Nova Publicação** TD NEDUR\
+[11/05/2021] **Nova Publicação** TD NEDUR\
 [Determinantes da variação do emprego dos jovens brasileiros: uma análise de decomposição estrutural para 2002-2015](https://econpapers.repec.org/paper/ristnedur/2021_5f002.htm)\
 Davi W. Catelan, Kênia B. Souza & Vinícius A. Vale
 
