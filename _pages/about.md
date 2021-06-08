@@ -18,6 +18,10 @@ Currículo [**Lattes**](http://lattes.cnpq.br/3023506645752042).
 
 # News
 
+[26/10/2020] **Nova Publicação** TD NEDUR\
+[Determinantes da variação do emprego dos jovens brasileiros: uma análise de decomposição estrutural para 2002-2015](https://econpapers.repec.org/paper/ristnedur/2021_5f002.htm)\
+Davi W. Catelan, Kênia B. Souza & Vinícius A. Vale
+
 [26/10/2020] **Nova Publicação** Livro\
 [Análise de Insumo-Produto: teoria e aplicações no R](https://viniciusvale.github.io/Livro-IP-R/Vale_Perobelli_2020_Livro_IP_R.pdf)\
 Vinícius A. Vale & Fernando S. Perobelli
