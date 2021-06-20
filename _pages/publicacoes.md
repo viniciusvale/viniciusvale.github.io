@@ -13,8 +13,12 @@ author_profile: true
 
 # Artigos
 
+- [COVID-19, public agglomerations and economic effects: Assessing the recovery time of passenger transport services in Brazi](https://doi.org/10.1016/j.tranpol.2021.06.004) <br/>
+  Transport Policy, v 110, p. 254-272, 2021 <br/>
+  Admir A. Betarelli Junior, Weslem R. Faria, Andressa L. Proque, Fernando S. Perobelli & Vinícius A. Vale
+  
 - [The economic impacts of COVID‐19 in Brazil based on an interregional CGE approach](https://doi.org/10.1111/rsp3.12354) <br/>
-  Regional Science Policy and Practice, 2020 <br/>
+  Regional Science Policy and Practice, v.12, n. 6, p. 1105-1121, 2020 <br/>
   Alexandre A. Porsse, Kênia B. de Souza, Terciane S. Carvalho & Vinícius A. Vale
   
 - [Water content in trade: a regional analysis for Morocco](https://doi.org/10.1080/09535314.2020.1756228) <br/>
