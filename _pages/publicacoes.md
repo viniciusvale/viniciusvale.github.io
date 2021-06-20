@@ -13,7 +13,7 @@ author_profile: true
 
 # Artigos
 
-- [COVID-19, public agglomerations and economic effects: Assessing the recovery time of passenger transport services in Brazi](https://doi.org/10.1016/j.tranpol.2021.06.004) <br/>
+- [COVID-19, public agglomerations and economic effects: assessing the recovery time of passenger transport services in Brazil](https://doi.org/10.1016/j.tranpol.2021.06.004) <br/>
   Transport Policy, v. 110, p. 254-272, 2021 <br/>
   Admir A. Betarelli Junior, Weslem R. Faria, Andressa L. Proque, Fernando S. Perobelli & Vinícius A. Vale
   
