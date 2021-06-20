@@ -19,7 +19,7 @@ Currículo [**Lattes**](http://lattes.cnpq.br/3023506645752042).
 # News
 
 [20/06/2020] **Nova Publicação** na Transport Policy\
-[COVID-19, public agglomerations and economic effects: Assessing the recovery time of passenger transport services in Brazi](https://doi.org/10.1016/j.tranpol.2021.06.004)\
+[COVID-19, public agglomerations and economic effects: Assessing the recovery time of passenger transport services in Brazil](https://doi.org/10.1016/j.tranpol.2021.06.004)\
 Admir A. Betarelli Junior, Weslem R. Faria, Andressa L. Proque, Fernando S. Perobelli & Vinícius A. Vale
 
 [11/05/2021] **Nova Publicação** TD NEDUR\
